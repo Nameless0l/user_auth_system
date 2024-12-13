@@ -1,6 +1,6 @@
 
 ## run migratetions : 
-`php -S localhost:8080`
+`mysql -u root -p < database.sql`
 ## Lancer le projet :
 
 `php -S localhost:8000`
